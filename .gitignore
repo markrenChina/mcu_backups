@@ -1,0 +1,8 @@
+**/cmake-build-debug/
+**/.idea/
+**/Listings/
+**/Objects/
+
+
+**/Project/**/Listings/
+**/Project/**/Objects/
