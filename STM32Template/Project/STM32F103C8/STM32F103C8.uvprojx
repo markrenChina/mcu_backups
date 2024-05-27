@@ -656,6 +656,18 @@
         </Group>
         <Group>
           <GroupName>Protocol</GroupName>
+          <Files>
+            <File>
+              <FileName>serial.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\Protocol\serial.c</FilePath>
+            </File>
+            <File>
+              <FileName>serial.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\..\Protocol\serial.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>C9Libs</GroupName>
